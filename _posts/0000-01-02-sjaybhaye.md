@@ -1,1 +1,2 @@
-Test file content
+Test file content 
+Second line test 
